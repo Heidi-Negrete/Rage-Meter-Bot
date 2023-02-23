@@ -7,7 +7,7 @@ To setup, assign your angry one (the one who has issues with pent up rage)
 * /rageassign @user
 
 Use:
-#### Press the angry one's buttons in a variety of ways (use words (embed) or physical pokes with /poke)
+#### Press the angry one's buttons in a variety of ways (use words or physical pokes (embed, msg from table) with /poke)
 * /poke to physically provoke
 * /button Send a taunting message
 #### Check the status of their rage (Stewing quietly, audible growling, visible vein popping, the temperature is higher than it was a minute ago).

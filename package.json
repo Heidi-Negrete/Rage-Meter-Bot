@@ -1,0 +1,17 @@
+{
+  "name": "ragemeterbot",
+  "version": "1.0.0",
+  "description": "discord bot to track an ally's rage levels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heidi Negrete",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}

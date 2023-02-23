@@ -12,7 +12,7 @@ Use:
 #### Press the angry one's buttons in a variety of ways (use words or physical pokes (embed, msg from table) with /poke)
 * /poke to physically provoke
 * /button Send a taunting message
-#### Check the status of their rage (Stewing quietly, audible growling, visible vein popping, the temperature is higher than it was a minute ago).
+#### Check the status of their rage (Stewing quietly, audible growling, visible vein popping, rapidly rising temperatures detected).
 * /ragelevel
 #### If meter is overfilled, victim will rage and may bonk at will after messages.
 * /bonk @user
